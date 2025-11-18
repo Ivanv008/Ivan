@@ -13,7 +13,8 @@ div{
  
 }
 
-img{border-radius: 30px;}
+img{border-radius: 30px;
+}
 
 header{background-color: aquamarine;
 margin: 0px;
@@ -28,4 +29,28 @@ text-decoration: none;
 color: black;}
 
 a:hover{background-color: rgb(255, 255, 255);
-font-size: 60px;}
+font-size: 40px;}
+
+ table {
+    width: 50%;
+    border-collapse: collapse;
+    font-family: Arial;
+    margin: auto;
+    margin-top: 50px;
+  }
+
+  th, td {
+    padding: 10px;
+    border: 1px solid #000000;
+    text-align: left;
+  }
+
+  th {
+    background-color: #8692d4;
+  }
+
+  tr:hover {
+    background-color: #9fe8f5;
+  }
+
+ 
